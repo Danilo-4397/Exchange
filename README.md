@@ -52,3 +52,6 @@ Para compilar e executar o projeto, siga os passos abaixo:
    ```bash
    git clone https://github.com/Danilo-4397/Exchange.git
    cd Exchange
+
+**Nome do integrante**:
+Danilo Cassiano de Souza RA:22.124.090-6
